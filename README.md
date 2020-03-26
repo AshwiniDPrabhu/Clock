@@ -1,4 +1,4 @@
-# A simple Clock App
+# A Simple Clock App
 
 The ios app makes use of tab bar controller. It consists of 3 tabs. 
 1. Clock - Displays the current time and date 
